@@ -23,7 +23,13 @@ Encrypted private API authorization & customized private model development
 Author: Zhang Huimin
 联系电话 Phone Number: +86 13380125468
 联系邮箱 Contact Email: 3291096047@qq.com
-
+<p align="center">
+# 🎤 项目创始人 · 专属AI数字人
+<video width="450" controls muted>
+  <source src="video_1777470375723_z9lkcr.mp4" type="video/mp4">
+  您的浏览器不支持视频播放
+</video>
+</p>
 ## 全球跨境合作 Global Cross-border Profit Cooperation
 承接海外机构模型授权、私有模型定制、API接口对接、年度风控服务
 Suitable for overseas news media, security enterprises, social platforms, global anti-fraud institutions
