@@ -33,3 +33,14 @@ Suitable for overseas news media, security enterprises, social platforms, global
 - app_core.py：界面交互核心逻辑 English GUI & animation logic
 - video_detect.py：视频帧深度换脸检测算法 Video frame-by-frame DeepFake detection
 - README.md：全球项目说明&版权声明 Global copyright & cooperation instructions
+- ## 📊 项目状态徽章 Project Status
+![检测准确率99.92%](https://img.shields.io/badge/Accuracy-99.92%-brightgreen)
+![Python语言](https://img.shields.io/badge/Language-Python-blue)
+![全平台兼容](https://img.shields.io/badge/System-Windows%2FMac%2FLinux-orange)
+![个人专属版权](https://img.shields.io/badge/Copyright-ZhangHuimin-red)
+
+## 📜 开源授权协议 License
+MIT 私有开源协议
+个人非商用永久免费使用，所有商业API授权、模型定制、跨境合作必须联系作者本人
+MIT Private Open Source Agreement
+Free for personal non-commercial use. All commercial authorization requires official contact with the author.
